@@ -3123,6 +3123,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::up
   player: {fileID: 464071746}
   camera: {fileID: 1636291331}
+  stage: {fileID: 2065062832}
+  element: {fileID: 286469609}
+  element1: {fileID: 1325499957}
   length: 5
 --- !u!114 &2065062834
 MonoBehaviour:
